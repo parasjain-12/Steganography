@@ -14,5 +14,5 @@ python3 main.py unhide_text OutputImageName.png
 ## If you want to hide text in jpg 
 * Step1 : use jpgtopdf.py to convert jpg to png
 * Step2: use that png file to hide text
-*Step 3: again convert it back to jpg 
+* Step 3: again convert it back to jpg 
            
